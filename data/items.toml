@@ -1,0 +1,15 @@
+[[items]]
+title = "Mastodon"
+image = "images/full/mastodon.png"
+thumb = "images/thumbs/mastodon.png"
+alt = "Mastodon"
+description = "An experimental instance of Mastodon."
+url = "https://toot.playground.ws"
+
+[[items]]
+title = "Pleroma"
+image = "images/full/pleroma.png"
+thumb = "images/thumbs/pleroma.png"
+alt = "Pleroma"
+description = "An experimental instance of Pleroma."
+url = "https://pleroma.playground.ws"
