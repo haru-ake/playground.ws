@@ -1,3 +1,24 @@
-baseURL = "http://example.org/"
+baseURL      = "https://playground.ws/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title        = "playground.ws"
+theme        = "hugrid"
+contentdir   = "content"
+datadir      = "data"
+layoutdir    = "layouts"
+publishdir   = "docs"
+
+[params]
+  title       = "playground.ws"
+  subtitle    = "This place is my playground. Let's play :)"
+  author      = "HARU Akebono"
+  description = ""
+  keywords    = ""
+
+  bodybgcolor = "#f9f9f9"
+  buttontext  = "VIEW"
+  footertext  = ""
+
+[Author]
+  github  = "haru-ake"
+  twitter = "haru_ake"
+  keybase = "haru_ake"
